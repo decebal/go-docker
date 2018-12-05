@@ -1,3 +1,7 @@
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/f591697fd444d5bb7c04/maintainability)](https://codeclimate.com/github/decebal/go-docker/maintainability) 
+[![Test Coverage](https://api.codeclimate.com/v1/badges/f591697fd444d5bb7c04/test_coverage)](https://codeclimate.com/github/decebal/go-docker/test_coverage)
+
 ### Basic Api with Health Check With Docker Compose
 
 #### Make Commands
